@@ -1,0 +1,6 @@
+1.点击Setup_v2.16.0.2.exe安装Git
+2.点击TortoiseGit-2.6.0.0-64bit.msi安装可视化工具TortoiseGit(类似SVN)
+3点击TortoiseGit-LanguagePack-2.6.0.0-64bit-zh_CN.msi安装TortoiseGit汉化包
+（选择的是默认的）
+使用教程：
+https://www.cnblogs.com/maojunyi/p/7735723.html
